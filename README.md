@@ -90,4 +90,4 @@ This is a hackathon prototype built on **simulated data**. It is a supply-chain 
 
 ## Team code4life
 
-Arya Singh Vishen · Pranay Jain · Manya Sinha · Harishma Venati · Riya Maheshwari
+Manya Sinha · Pranay Jain · Arya Singh Vishen · Riya Maheshwari
